@@ -1,4 +1,5 @@
 site_name: Market Basket Analysis using Apriori and Fpgrowth algorithms
+
 theme:
   name: material
   logo: assets/menu.png
